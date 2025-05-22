@@ -1,8 +1,6 @@
-import { color } from "@colors"
-
 export const styles = {
     tableCell: {
-        color: color?.primary.main,
+        color: '#159283',
         fontWeight: 700,
         backgroundColor: '#1592830D',
         borderBottom: '3px solid #159283',
@@ -24,7 +22,7 @@ export const styles = {
             left: 0,
             right: 0,
             bottom: 0,
-            backgroundColor: color?.primary.main,
+            backgroundColor:' #159283',
             zIndex: -1,
         },
     },
